@@ -1,0 +1,15 @@
+.list {
+  background-color: transparent;
+  border: 1.5px solid red;
+  margin-right: 20px;
+  padding: 3px 10px;
+  border-radius: 9px;
+}
+.button {
+  background-color: red;
+  color: white;
+  border: 1.5px solid red;
+  margin-right: 20px;
+  padding: 3px 10px;
+  border-radius: 9px;
+}

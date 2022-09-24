@@ -1,0 +1,16 @@
+.app-container {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  text-align: center;
+  align-items: center;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+}
+.image {
+  width: 390px;
+}
